@@ -1,1 +1,1 @@
-print("This is a test on running vsc code from here to raspberry pi")
+print("this is a test from running vsc code from here to raspberry pi btw")
